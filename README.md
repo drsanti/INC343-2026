@@ -4,6 +4,10 @@
 
 ---
 
+![alt text](assets/cover.png)
+
+---
+
 ## 📋 Course Information
 
 | **Details** | **Information** |
