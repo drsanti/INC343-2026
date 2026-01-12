@@ -1,4 +1,4 @@
-# INC343: Computer-Based Control and Monitoring Systems
+# INC343: Computer-Based Control & Monitoring Systems
 
 > This course introduces computer-based systems used for **control and monitoring of devices and machinery**. Students will gain both **theoretical knowledge** and **practical programming skills** through a progressive three-phase learning approach: **foundations** (TypeScript programming and control system basics), **web application development** (Next.js frontend and NestJS backend), and **system integration** (industrial communication protocols, IoT technologies, and data management). The course emphasizes **hands-on development** of **web-based monitoring and control applications** using **standard industrial communication protocols** for real-world industrial and automation environments.
 
