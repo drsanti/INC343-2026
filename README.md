@@ -123,16 +123,18 @@ To successfully participate in this course, students must have access to:
 
 ## 📅 Weekly Schedule Overview
 
-| Week | Topic | Assessment |
+| Week | Topic | Activities |
 |------|-------|------------|
-| 1 | Course Introduction and System Overview | - |
-| 2 | Development Environment Setup | - |
-| 3 | Programming Foundations and Control System Basics | - |
-| 4 | **Quiz 1** – Foundations | Quiz 1 (20%) |
-| 5-7 | Web Application Development (Frontend & Backend) | - |
-| 8 | **Quiz 2** – Web Development | Quiz 2 (25%) |
-| 9-12 | Protocols, IoT, Data, and System Integration | - |
-| 13 | **Quiz 3** – Control and Monitoring Applications | Quiz 3 (35%) |
+| 1 | Course Introduction and System Overview |Learn & Practice|
+| 2 | Development Environment Setup |Learn & Practice|
+| 3 | Programming Foundations and Control System Basics |Learn & Practice|
+| 4 | **Quiz 1** – Foundations | **Quiz 1 (20%)** |
+| 5-7 | Web Application Development (Frontend & Backend) |Learn & Practice|
+| 8 | **Quiz 2** – Web Development | **Quiz 2 (25%)** |
+| 9-12 | Protocols, IoT, Data, and System Integration |Learn & Practice|
+| 13 | **Quiz 3** – Control and Monitoring Applications | **Quiz 3 (35%)** |
+
+Note: another 20% of the grade is from assignments.
 
 For detailed weekly topics, see the [Course Outline](./Outline.md).
 
@@ -163,11 +165,6 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 
 ---
 
-## 📧 Contact
-
-For course-related inquiries, please refer to the course syllabus or contact your instructor during class hours.
-
----
 
 **Last Updated:** 2026-01-12
 
