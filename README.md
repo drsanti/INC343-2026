@@ -14,9 +14,9 @@
 |------------|----------------|
 | **Learning Format** | Hybrid (Onsite + Online) |
 | **Classroom (Onsite)** | CB40610(1) |
-| **Zoom Link (Online)** | [https://kmutt-ac-th.zoom.us/j/7836125217](https://kmutt-ac-th.zoom.us/j/7836125217) |
+| **Zoom Link (Online)** | [Zoom Meeting](https://kmutt-ac-th.zoom.us/j/96375355243?pwd=Gc5bZ98ZLaFIt1uiMzDF8Uiddfq6X9.1), Meeting ID: **963 7535 5243**, Passcode: **763047** |
 | **Schedule** | Tuesday, 13:30 – 16:30 |
-| **Assessments & Quizzes** | 100% Assignments & Quizzes (No midterm/final exams) |
+| **Evaluation** | Assignments: **20%**, Quizzes: **80%**|
 
 ---
 
@@ -71,12 +71,20 @@ This course uses the following technologies and tools:
 
 Each quiz consists of **two parts**:
 1. **Paper-based (handwritten)** - Theoretical knowledge and core concepts
-2. **Programming** - Practical coding and implementation tasks
+2. **Programming** - Practical coding and implementation tasks (students must use their own computer)
 
 **Quiz Topics:**
 - **Quiz 1:** Basic knowledge and basic programming
 - **Quiz 2:** Frontend and backend programming
 - **Quiz 3:** Control and monitoring application development
+
+---
+
+## **Assignment Submission and Quiz Attendance Policy**
+
+* Late submissions will be considered as not submitted.
+* If a student misses a quiz **without a valid reason**, they will receive **0 points** for that quiz.
+* If a student misses a quiz **with a valid reason** (supported by an official leave form or evidence), they may request a make-up quiz and will receive **70% of the score earned** (actual score × 0.7).
 
 ---
 
@@ -86,8 +94,8 @@ This course is structured in **three progressive phases**:
 
 ### Phase 1: Foundations (Weeks 1–3)
 - Introduction to control systems
-- TypeScript programming fundamentals
-- Basic control logic and algorithms
+- TypeScript programming fundamentals (self-study)
+- Basic control logic and algorithms (self-study)
 - **Assessment:** Quiz 1 (Week 4) – 20%
 
 ### Phase 2: Web Application Development (Weeks 5–7)
