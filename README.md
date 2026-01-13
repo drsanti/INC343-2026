@@ -83,6 +83,7 @@ Each quiz consists of **two parts**:
 ## **Assignment Submission and Quiz Attendance Policy**
 
 * Late submissions will be considered as not submitted.
+* All quizzes will be conducted according to the scheduled class date and time.
 * If a student misses a quiz **without a valid reason**, they will receive **0 points** for that quiz.
 * If a student misses a quiz **with a valid reason** (supported by an official leave form or evidence), they may request a make-up quiz and will receive **70% of the score earned** (actual score × 0.7).
 
