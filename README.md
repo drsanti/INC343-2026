@@ -4,6 +4,12 @@
 
 ---
 
+[**Syllabus**](./Syllabus.md) | [**Course Outline**](./Outline.md) | [**Weekly Materials**](#-weekly-materials) | [**GitHub**](https://github.com/drsanti/INC343-2026)
+
+![Course Code](https://img.shields.io/badge/Course-INC343-blue) ![Year](https://img.shields.io/badge/Year-2026-green) ![Language](https://img.shields.io/badge/Language-TypeScript-orange)
+
+---
+
 ![alt text](assets/cover.png)
 
 ---
@@ -83,7 +89,7 @@ Each quiz consists of **two parts**:
 ## **Assignment Submission and Quiz Attendance Policy**
 
 * Late submissions will be considered as not submitted.
-* All quizzes will be conducted according to the scheduled class date and time.
+* All quizzes will be conducted **onsite at CB40610(1)** according to the scheduled class date and time.
 * If a student misses a quiz **without a valid reason**, they will receive **0 points** for that quiz.
 * If a student misses a quiz **with a valid reason** (supported by an official leave form or evidence), they may request a make-up quiz and will receive **70% of the score earned** (actual score × 0.7).
 
