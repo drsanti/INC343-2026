@@ -49,7 +49,7 @@
 
 ---
 
-## **Week 4: TypeScript for Beginners & Quiz 1**
+## **Week 4: TypeScript for Beginners**
 
 * **TypeScript Programming for Beginners (self-study)**
 
@@ -57,14 +57,9 @@
   * Each chapter includes runnable examples and exercises; supports Quiz 1 preparation
   * See [Week 4 Materials](./Week04/) for chapter index and links
 
-* **Quiz 1: Basic Knowledge and Basic Programming**
-
-  * Paper-based (handwritten): Control system concepts and programming fundamentals
-  * Programming: TypeScript-based problem solving and basic control logic
-
 ---
 
-## **Week 5: Frontend Development for Control and Monitoring Systems**
+## **Week 5: Frontend Development for Control and Monitoring Systems & Quiz 1**
 
 * Overview of **web-based control and monitoring system architecture**
 * Introduction to **Next.js** for frontend development:
@@ -77,6 +72,11 @@
 * **State management basics** for displaying real-time monitoring data
 * Designing **monitoring dashboards** (status indicators, controls, basic visual elements)
 * **Hands-on:** Building a monitoring dashboard interface using Next.js and Tailwind CSS
+
+* **Quiz 1: Basic Knowledge and Basic Programming**
+
+  * Paper-based (handwritten): Control system concepts and programming fundamentals
+  * Programming: TypeScript-based problem solving and basic control logic
 
 ---
 
@@ -179,7 +179,7 @@ This course is structured in three progressive phases, each building upon previo
 * **Learning Focus:** Introduction to control systems, programming fundamentals with TypeScript, and basic control logic
 * **Key Topics:** System concepts, TypeScript basics (variables, functions, classes, etc.), control system components, programming practices
 * **Resources:** Week 3 labs; Week 4 TypeScript for Beginners chapters (Ch01–Ch13)
-* **Assessment:** **Quiz 1** (Week 4) – 20% of final grade
+* **Assessment:** **Quiz 1** (Week 5) – 20% of final grade
 
 ### **Phase 2: Web Application Development** (Weeks 5–7)
 * **Learning Focus:** Full-stack web development for control and monitoring interfaces

@@ -46,7 +46,8 @@ Upon successful completion of this course, students will be able to:
 - **[Week 1: Course Introduction](./Week01/)** - Introduction to control and monitoring systems
 - **[Week 2: Development Environment Setup](./Week02/)** - Installing and configuring development tools
 - **[Week 3: Programming Foundations](./Week03/)** - TypeScript fundamentals and control system basics
-- **[Week 4: TypeScript for Beginners & Quiz 1](./Week04/)** - Self-study chapters (Ch01–Ch13) and Quiz 1 assessment
+- **[Week 4: TypeScript for Beginners](./Week04/)** - Self-study chapters (Ch01–Ch13) and Quiz 1 preparation
+- **[Week 5: Frontend Development & Quiz 1](./Week05/)** - Next.js, Tailwind CSS, and **Quiz 1** (see [Quiz 1 preparation](./Week05/Quiz-01/Quiz1-Prepare.md) and [Scoring Policy](./Week05/Quiz-01/Scoring-Policy.md))
 
 ---
 
@@ -100,11 +101,11 @@ Each quiz consists of **two parts**:
 
 This course is structured in **three progressive phases**:
 
-### Phase 1: Foundations (Weeks 1–3)
+### Phase 1: Foundations (Weeks 1–4)
 - Introduction to control systems
 - TypeScript programming fundamentals (self-study)
 - Basic control logic and algorithms (self-study)
-- **Assessment:** Quiz 1 (Week 4) – 20%
+- **Assessment:** Quiz 1 (Week 5) – 20%
 
 ### Phase 2: Web Application Development (Weeks 5–7)
 - Next.js frontend development
@@ -148,8 +149,9 @@ To successfully participate in this course, students must have access to:
 | 1 | Course Introduction and System Overview |Learn & Practice|
 | 2 | Development Environment Setup |Learn & Practice|
 | 3 | Programming Foundations and Control System Basics |Learn & Practice|
-| 4 | TypeScript for Beginners (Ch01–Ch13) & **Quiz 1** | Self-study + **Quiz 1 (20%)** |
-| 5-7 | Web Application Development (Frontend & Backend) |Learn & Practice|
+| 4 | TypeScript for Beginners (Ch01–Ch13) | Self-study |
+| 5 | Frontend Development & **Quiz 1** | **Quiz 1 (20%)** + Learn |
+| 6-7 | Backend and Integration | Learn & Practice |
 | 8 | **Quiz 2** – Web Development | **Quiz 2 (25%)** |
 | 9-12 | Protocols, IoT, Data, and System Integration |Learn & Practice|
 | 13 | **Quiz 3** – Control and Monitoring Applications | **Quiz 3 (35%)** |
@@ -183,6 +185,7 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 2 Materials](./Week02/)
 - [Week 3 Materials](./Week03/)
 - [Week 4 Materials](./Week04/)
+- [Week 5 Quiz 1 Materials](./Week05/Quiz-01/) – Quiz 1 preparation, scoring policy
 
 ---
 

@@ -34,4 +34,5 @@ Watch the playlist to follow along with frontend development concepts and practi
 
 - [Course Outline](../Outline.md)
 - [Week 4 Materials](../Week04/)
+- [Quiz 1 (Week 5)](./Quiz-01/)
 - [Main Course README](../README.md)

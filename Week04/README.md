@@ -1,6 +1,6 @@
-# Week 4: TypeScript Programming for Beginners & Quiz 1
+# Week 4: TypeScript Programming for Beginners
 
-> Self-study TypeScript chapters and Quiz 1 assessment.
+> Self-study TypeScript chapters and Quiz 1 preparation. **Quiz 1 is held in Week 5**—see [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for details and scoring policy.
 
 ---
 
@@ -23,7 +23,7 @@ TypeScript gave you **type safety** for sensor readings, **modular logic** with 
 **Week 4** serves two purposes:
 
 1. **TypeScript self-study** – Hands-on chapters for beginners (Ch01–Ch13)
-2. **Quiz 1** – Assessment of control system concepts and programming fundamentals
+2. **Quiz 1 preparation** – Quiz 1 is held in **Week 5**; use this week to prepare (see [Week 5 Quiz 1](../Week05/Quiz-01/) for quiz details and scoring policy)
 
 ---
 
@@ -68,14 +68,16 @@ Each chapter contains:
 
 ## Quiz 1 – Foundations of Control and Programming
 
+**Quiz 1 is held in Week 5.** See [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for full details, preparation checklist, and the **programming examination scoring policy**.
+
 Quiz 1 covers:
 - **Paper-based:** Control system concepts and programming fundamentals
 - **Programming:** TypeScript-based problem solving and basic control logic
 
-**Preparation:**
+**Preparation (complete before Week 5):**
 - Review Week 1–3 materials
 - Complete Week 3 laboratory exercises
-- Work through TypeScript chapters Ch01–Ch11 (variables through classes)
+- Work through TypeScript chapters Ch01–Ch13 (or at least Ch01–Ch11)
 - Complete Week 3 self-assessment tests
 
 ---
@@ -84,4 +86,4 @@ Quiz 1 covers:
 
 - [Course Outline](../Outline.md)
 - [Week 3 Materials](../Week03/)
-- [Week 5 Preview](../Week05/)
+- [Week 5 Materials](../Week05/) – Frontend development and **Quiz 1** (details and scoring policy in [Quiz-01](../Week05/Quiz-01/))

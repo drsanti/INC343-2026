@@ -78,13 +78,13 @@ By the end of Week 3, you should be able to:
 7. ✅ Complete **[Week 3 Test 01](./Week03-Test01.md)**
 8. ✅ Complete **[Week 3 Test 02](./Week03-Test02.md)**
 9. ✅ Review all key terms and concepts
-10. ✅ **Prepare for Quiz 1** (Week 4) - Review all Week 1-3 materials
+10. ✅ **Prepare for Quiz 1** (Week 5) - Review all Week 1-3 materials; see [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for checklist and scoring policy
 
 ---
 
 ## ⚠️ **Quiz 1 Preparation**
 
-**Quiz 1** will be held in **Week 4** and includes:
+**Quiz 1** will be held in **Week 5** and includes:
 
 * **Paper-based (handwritten) component:** Theoretical knowledge and core concepts
 * **Programming component:** TypeScript-based problem solving and basic control logic
@@ -99,10 +99,11 @@ By the end of Week 3, you should be able to:
 **Preparation Checklist:**
 * Review Week 1-3 reading materials
 * Complete all laboratory exercises
-* Work through **Week 4 TypeScript for Beginners** chapters (Ch01–Ch11) if you need extra practice—see [Week 4 Materials](../Week04/)
+* Work through **Week 4 TypeScript for Beginners** chapters (Ch01–Ch13) if you need extra practice—see [Week 4 Materials](../Week04/)
 * Practice writing TypeScript code
 * Review control system concepts
 * Complete all self-test quizzes
+* Complete all items in [Week 5 Quiz 1 preparation](../Week05/Quiz-01/Quiz1-Prepare.md) before Quiz 1
 
 ---
 
@@ -124,7 +125,8 @@ Make sure you have:
 * [Course Syllabus](../Syllabus.md)
 * [Week 1 Materials](../Week01/)
 * [Week 2 Materials](../Week02/)
-* [Week 4 Materials (TypeScript for Beginners & Quiz 1)](../Week04/)
+* [Week 4 Materials (TypeScript for Beginners)](../Week04/)
+* [Week 5 Quiz 1 (preparation & scoring policy)](../Week05/Quiz-01/)
 
 ---
 
@@ -151,16 +153,14 @@ Make sure you understand these terms:
 
 ## ➡️ **Next Week Preview**
 
-**Week 4: TypeScript for Beginners & Quiz 1**
+**Week 4: TypeScript for Beginners**
 
 * **TypeScript for Beginners (self-study):** Hands-on chapters Ch01–Ch13 covering introduction, variables, conditionals, loops, functions, arrays, objects, classes, modules, and error handling. Each chapter has runnable examples and exercises—see [Week 4 Materials](../Week04/).
-* **Quiz 1** will assess:
-  * Basic knowledge and basic programming
-  * Control system concepts and programming fundamentals
-  * TypeScript-based problem solving
-  * Basic control logic implementation
 
-**After Quiz 1:** We will move to web application development (frontend and backend) in Week 5.
+**Week 5: Frontend Development & Quiz 1**
+
+* **Quiz 1** is held in **Week 5**. It will assess: basic knowledge and basic programming, control system concepts and programming fundamentals, TypeScript-based problem solving, basic control logic implementation. See [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for preparation checklist and **programming examination scoring policy**.
+* **Frontend development:** Next.js, React, TypeScript, Tailwind CSS for monitoring dashboards (see [Outline](../Outline.md)).
 
 ---
 
