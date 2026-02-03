@@ -99,6 +99,7 @@ By the end of Week 3, you should be able to:
 **Preparation Checklist:**
 * Review Week 1-3 reading materials
 * Complete all laboratory exercises
+* Work through **Week 4 TypeScript for Beginners** chapters (Ch01–Ch11) if you need extra practice—see [Week 4 Materials](../Week04/)
 * Practice writing TypeScript code
 * Review control system concepts
 * Complete all self-test quizzes
@@ -123,6 +124,7 @@ Make sure you have:
 * [Course Syllabus](../Syllabus.md)
 * [Week 1 Materials](../Week01/)
 * [Week 2 Materials](../Week02/)
+* [Week 4 Materials (TypeScript for Beginners & Quiz 1)](../Week04/)
 
 ---
 
@@ -149,16 +151,17 @@ Make sure you understand these terms:
 
 ## ➡️ **Next Week Preview**
 
-**Week 4: Quiz 1 – Foundations of Control and Programming**
+**Week 4: TypeScript for Beginners & Quiz 1**
 
-**Quiz 1** will assess:
-* Basic knowledge and basic programming
-* Control system concepts and programming fundamentals
-* TypeScript-based problem solving
-* Basic control logic implementation
+* **TypeScript for Beginners (self-study):** Hands-on chapters Ch01–Ch13 covering introduction, variables, conditionals, loops, functions, arrays, objects, classes, modules, and error handling. Each chapter has runnable examples and exercises—see [Week 4 Materials](../Week04/).
+* **Quiz 1** will assess:
+  * Basic knowledge and basic programming
+  * Control system concepts and programming fundamentals
+  * TypeScript-based problem solving
+  * Basic control logic implementation
 
 **After Quiz 1:** We will move to web application development (frontend and backend) in Week 5.
 
 ---
 
-**Last Updated:** 2026-01-12
+**Last Updated:** 2026-02-03

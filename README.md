@@ -46,6 +46,7 @@ Upon successful completion of this course, students will be able to:
 - **[Week 1: Course Introduction](./Week01/)** - Introduction to control and monitoring systems
 - **[Week 2: Development Environment Setup](./Week02/)** - Installing and configuring development tools
 - **[Week 3: Programming Foundations](./Week03/)** - TypeScript fundamentals and control system basics
+- **[Week 4: TypeScript for Beginners & Quiz 1](./Week04/)** - Self-study chapters (Ch01–Ch13) and Quiz 1 assessment
 
 ---
 
@@ -147,7 +148,7 @@ To successfully participate in this course, students must have access to:
 | 1 | Course Introduction and System Overview |Learn & Practice|
 | 2 | Development Environment Setup |Learn & Practice|
 | 3 | Programming Foundations and Control System Basics |Learn & Practice|
-| 4 | **Quiz 1** – Foundations | **Quiz 1 (20%)** |
+| 4 | TypeScript for Beginners (Ch01–Ch13) & **Quiz 1** | Self-study + **Quiz 1 (20%)** |
 | 5-7 | Web Application Development (Frontend & Backend) |Learn & Practice|
 | 8 | **Quiz 2** – Web Development | **Quiz 2 (25%)** |
 | 9-12 | Protocols, IoT, Data, and System Integration |Learn & Practice|
@@ -181,10 +182,11 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 1 Materials](./Week01/)
 - [Week 2 Materials](./Week02/)
 - [Week 3 Materials](./Week03/)
+- [Week 4 Materials](./Week04/)
 
 ---
 
 
-**Last Updated:** 2026-01-12
+**Last Updated:** 2026-02-03
 
 ---

@@ -49,7 +49,13 @@
 
 ---
 
-## **Week 4: Quiz 1 – Foundations of Control and Programming**
+## **Week 4: TypeScript for Beginners & Quiz 1**
+
+* **TypeScript Programming for Beginners (self-study)**
+
+  * Hands-on chapters Ch01–Ch13: introduction, variables, conditionals, loops, functions, arrow functions, arrays, objects, interfaces, classes, modules, error handling
+  * Each chapter includes runnable examples and exercises; supports Quiz 1 preparation
+  * See [Week 4 Materials](./Week04/) for chapter index and links
 
 * **Quiz 1: Basic Knowledge and Basic Programming**
 
@@ -169,9 +175,10 @@
 
 This course is structured in three progressive phases, each building upon previous knowledge and culminating in a comprehensive assessment.
 
-### **Phase 1: Foundations** (Weeks 1–3)
+### **Phase 1: Foundations** (Weeks 1–4)
 * **Learning Focus:** Introduction to control systems, programming fundamentals with TypeScript, and basic control logic
-* **Key Topics:** System concepts, TypeScript basics, control system components, programming practices
+* **Key Topics:** System concepts, TypeScript basics (variables, functions, classes, etc.), control system components, programming practices
+* **Resources:** Week 3 labs; Week 4 TypeScript for Beginners chapters (Ch01–Ch13)
 * **Assessment:** **Quiz 1** (Week 4) – 20% of final grade
 
 ### **Phase 2: Web Application Development** (Weeks 5–7)
@@ -188,6 +195,6 @@ This course is structured in three progressive phases, each building upon previo
 
 ---
 
-**Last Updated:** 2026-01-12
+**Last Updated:** 2026-02-03
 
 ---

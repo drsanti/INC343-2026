@@ -289,10 +289,14 @@ Complete all laboratory exercises to practice implementing control logic and mon
 4. **[Lab 04](./Week02-Lab04.md)** - Error handling and debugging
 5. **[Lab 05](./Week03-Lab05.md)** - Complete control and monitoring application
 
+### **Additional TypeScript Practice (Week 4)**
+
+If you need extra practice with TypeScript basics (variables, conditionals, loops, functions, classes, etc.), work through the **[Week 4 TypeScript for Beginners](../Week04/)** chapters (Ch01–Ch13). Each chapter includes runnable examples and exercises.
+
 **Important:** These exercises build upon each other and are essential preparation for Quiz 1, which includes both paper-based (theoretical) and programming (practical) components.
 
 ---
 
-**Last Updated:** 2026-01-12
+**Last Updated:** 2026-02-03
 
 ---
