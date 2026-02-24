@@ -40,8 +40,13 @@ npm install -g @nestjs/cli
 ```
 
 ## Step 2: Create a New Project
-We will name our backend `inc343-backend`. Run the following command and choose `npm` as the package manager:
+We will name our backend `inc343-backend` and store it in a **projects** folder. Run the following commands:
 ```bash
+# Create and enter the projects directory
+mkdir projects
+cd projects
+
+# Scaffold the new NestJS project
 nest new inc343-backend
 ```
 
@@ -53,9 +58,9 @@ Open the folder in VS Code. Locate the following files in `src/`:
 - `app.service.ts`: Basic service.
 
 ## Step 4: Run the Application
-Start the development server:
+Start the development server (run this from your `Week06` folder):
 ```bash
-cd inc343-backend
+cd projects/inc343-backend
 npm run start:dev
 ```
 Open your browser to [http://localhost:3000](http://localhost:3000). You should see **"Hello World!"**.

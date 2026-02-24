@@ -32,7 +32,7 @@ graph LR
 ---
 
 ## Step 1: Generate the Module, Controller, and Service
-NestJS CLI can automate this for you. Run these commands:
+NestJS CLI can automate this for you. **Ensure you are inside the `projects/inc343-backend` directory** and run these commands:
 ```bash
 nest generate module devices
 nest generate controller devices

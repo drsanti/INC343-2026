@@ -22,6 +22,10 @@ By the end of this week, you will be able to:
 - [Workshop 2: Creating a Device API](./Workshop-02-Device-API.md)
 - [Workshop 3: Real-time Communication with WebSockets](./Workshop-03-WS-Notification.md)
 
+### Quizzes
+- [Test 01: Theory – Backend Development](./Test01-theory.md)
+- [Test 01: Coding – Backend Implementation](./Test01-coding.md)
+
 ---
 **Course:** INC343: Computer-Based Control and Monitoring Systems
 **Last Updated:** 2026-02-24

@@ -30,7 +30,7 @@ graph TD
 ---
 
 ## Step 1: Install WebSocket Dependencies
-NestJS uses standard WebSocket libraries but wraps them in a powerful decorator-based system. Run this in your `inc343-backend` directory:
+NestJS uses standard WebSocket libraries but wraps them in a powerful decorator-based system. Run this in your `projects/inc343-backend` directory:
 
 ```bash
 npm install @nestjs/websockets @nestjs/platform-socket.io
