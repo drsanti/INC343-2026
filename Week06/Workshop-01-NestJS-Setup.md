@@ -33,6 +33,8 @@ graph TD
 - Node.js (v18+) installed.
 - VS Code installed.
 
+> ⚠️ **Warning**: Do not use special characters or spaces in your directory and file names. These can cause issues with terminal commands and build tools. Stick to alphanumeric characters, hyphens (`-`), or underscores (`_`).
+
 ## Step 1: Install NestJS CLI
 Open your terminal and run:
 ```bash
