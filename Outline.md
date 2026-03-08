@@ -195,6 +195,6 @@ This course is structured in three progressive phases, each building upon previo
 
 ---
 
-**Last Updated:** 2026-02-03
+**Last Updated:** 2026-03-08
 
 ---

@@ -18,7 +18,7 @@ Define a TypeScript **interface** named `Actuator` for a device that controls a 
 
 **(1 mark)**
 
-**Submit:** A TypeScript file (e.g., `t1_model.ts`) containing the interface and the variable.
+**Submit:** A TypeScript file (e.g., `t2_model.ts`) containing the interface and the variable.
 
 ---
 
@@ -34,7 +34,7 @@ Write a NestJS **Controller** method named `getActuatorStatus` that:
 
 **(2 marks)**
 
-**Submit:** A code snippet or a file (e.g., `t1_controller.ts`) with the method implementation.
+**Submit:** A code snippet or a file (e.g., `t2_controller.ts`) with the method implementation.
 
 ---
 
@@ -48,7 +48,7 @@ Inside a NestJS **WebSocket Gateway**, write a manual method named `sendEmergenc
 
 **(2 marks)**
 
-**Submit:** A code snippet or a file (e.g., `t1_gateway.ts`) containing the method logic.
+**Submit:** A code snippet or a file (e.g., `t2_gateway.ts`) containing the method logic.
 
 ---
 

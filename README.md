@@ -186,10 +186,11 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 3 Materials](./Week03/)
 - [Week 4 Materials](./Week04/)
 - [Week 5 Quiz 1 Materials](./Week05/Quiz-01/) – Quiz 1 preparation, scoring policy
+- [Week 6 Materials](./Week06/) – Backend development, NestJS, and Real-time communication
 
 ---
 
 
-**Last Updated:** 2026-02-03
+**Last Updated:** 2026-03-08
 
 ---
