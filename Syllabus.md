@@ -45,7 +45,7 @@ Each quiz consists of **two parts**:
 
 * **Quiz 1:** Basic knowledge and basic programming
 * **Quiz 2:** Frontend and backend programming
-* **Quiz 3:** Control and monitoring application development
+* **Quiz 3:** Frontend & System Integration
 
 ---
 
@@ -93,6 +93,6 @@ Upon successful completion of this course, students will be able to:
 
 ---
 
-**Last Updated:** 2026-02-03
+**Last Updated:** 2026-03-16
 
 ---

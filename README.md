@@ -47,7 +47,12 @@ Upon successful completion of this course, students will be able to:
 - **[Week 2: Development Environment Setup](./Week02/)** - Installing and configuring development tools
 - **[Week 3: Programming Foundations](./Week03/)** - TypeScript fundamentals and control system basics
 - **[Week 4: TypeScript for Beginners](./Week04/)** - Self-study chapters (Ch01–Ch13) and Quiz 1 preparation
-- **[Week 5: Frontend Development & Quiz 1](./Week05/)** - Next.js, Tailwind CSS, and **Quiz 1** (see [Quiz 1 preparation](./Week05/Quiz-01/Quiz1-Prepare.md) and [Scoring Policy](./Week05/Quiz-01/Scoring-Policy.md))
+- **[Week 5: Quiz 1 & Frontend](./Week05/)** - **Quiz 1**: Basic Knowledge and Basic Programming
+- **[Week 6: Backend Development](./Week06/)** - NestJS, RESTful APIs, and WebSockets
+- **[Week 7: Integration](./Week07/)** - Integration and Communication (Main content for Quiz 2)
+- **[Week 8: Quiz 2](./Week08/)** - **Quiz 2**: Full-Stack Web Application Development
+- **[Week 9-12: Frontend Development](./Week09/)** - Frontend development using React and TailwindCSS
+- **[Week 13: Quiz 3](./Week13/)** - **Quiz 3**: Frontend & System Integration
 
 ---
 
@@ -113,11 +118,12 @@ This course is structured in **three progressive phases**:
 - Full-stack integration and real-time communication
 - **Assessment:** Quiz 2 (Week 8) – 25%
 
-### Phase 3: System Integration (Weeks 9–12)
+### Phase 3: System Integration & Frontend (Weeks 9–12)
+- Advanced frontend development (React & Tailwind CSS)
 - Industrial communication protocols (Modbus, MQTT)
-- IoT device integration
-- Data management and visualization
-- Complete system development
+- Data visualization and real-time dashboard design
+- Complete system development and project implementation
+- **Learning Resources:** See the [INC343 YouTube Playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) for video walkthroughs (covers Weeks 09–12)
 - **Assessment:** Quiz 3 (Week 13) – 35%
 
 **Continuous Assessment:** Assignments throughout the semester – 20%
@@ -153,8 +159,8 @@ To successfully participate in this course, students must have access to:
 | 5 | Frontend Development & **Quiz 1** | **Quiz 1 (20%)** + Learn |
 | 6-7 | Backend and Integration | Learn & Practice |
 | 8 | **Quiz 2** – Web Development | **Quiz 2 (25%)** |
-| 9-12 | Protocols, IoT, Data, and System Integration |Learn & Practice|
-| 13 | **Quiz 3** – Control and Monitoring Applications | **Quiz 3 (35%)** |
+| 9-12 | Frontend Development & System Integration | Learn & Project |
+| 13 | **Quiz 3**: Frontend & System Integration | **Quiz 3 (35%)** |
 
 Note: another 20% of the grade is from assignments.
 
@@ -185,12 +191,15 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 2 Materials](./Week02/)
 - [Week 3 Materials](./Week03/)
 - [Week 4 Materials](./Week04/)
-- [Week 5 Quiz 1 Materials](./Week05/Quiz-01/) – Quiz 1 preparation, scoring policy
+- [Week 5 Materials](./Week05/) – Frontend Development and **Quiz 1** (Basic Knowledge and Programming)
 - [Week 6 Materials](./Week06/) – Backend development, NestJS, and Real-time communication
+- [Week 7 Materials](./Week07/) – Integration and Real-time communication (Review Week 06 & Quiz 2 Focus)
+- [Week 8 Materials](./Week08/) – Quiz 2: Full-Stack Web Application Development
+- [Week 9 Materials](./Week09/) – Frontend Development (React and TailwindCSS) & YouTube Playlist (Weeks 09–12)
 
 ---
 
 
-**Last Updated:** 2026-03-08
+**Last Updated:** 2026-03-16
 
 ---

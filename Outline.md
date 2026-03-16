@@ -132,42 +132,35 @@
 
 * Fundamental **Internet of Things (IoT)** concepts and architectures
 * Integration of **IoT devices** with backend systems
-* Web-based **device control and monitoring**
-* **Sensor data acquisition**, preprocessing, and transmission
-* **Hands-on:** Connecting IoT devices to web-based control and monitoring applications
+## **Week 9-12: Frontend Development (React & Tailwind CSS) & Project Implementation**
+
+* **Advanced React and Tailwind CSS**:
+
+  * Building complex, responsive, and interactive user interfaces
+  * State management with React Context or Redux for large applications
+  * Custom hooks and component patterns for reusability
+* **Data Visualization with React**:
+
+  * Integrating charting libraries (e.g., Chart.js, Recharts) for real-time data display
+  * Designing dynamic dashboards for control and monitoring
+* **Frontend-driven Communication**:
+
+  * Implementing WebSocket clients for real-time data updates
+  * Advanced API integration and error handling on the frontend
+* **Project-based Learning**:
+
+  * Applying learned concepts to develop a comprehensive frontend for a control system
+  * Focus on UI/UX best practices for industrial applications
+* **Hands-on**: Developing a complete, production-ready frontend application for a control and monitoring system.
 
 ---
 
-## **Week 11: Data Management, Analysis, and Visualization**
+## **Week 13: Quiz 3 – Frontend & System Integration**
 
-* **Data storage strategies** for monitoring systems
-* Introduction to **real-time data processing**
-* Basic **data analysis** techniques for monitoring applications
-* **Data visualization principles** for control dashboards
-* Using charts and graphs to represent system status and trends
-* **Hands-on:** Implementing data management and visualization features
+* **Quiz 3: Frontend & System Integration**
 
----
-
-## **Week 12: Complete Control and Monitoring System Development**
-
-* **Design patterns** for scalable control and monitoring applications
-* Complete **system architecture** design
-* Integration of all system components:
-
-  * Frontend, backend, protocols, IoT devices, and data management
-* **System testing and debugging**
-* Best practices for **production-ready applications**
-* **Hands-on:** Developing a complete control and monitoring system project
-
----
-
-## **Week 13: Quiz 3 – Control and Monitoring Applications**
-
-* **Quiz 3: Control and Monitoring System Development**
-
-  * Paper-based (handwritten): System design and control concepts
-  * Programming: Complete control and monitoring application development
+  * Paper-based (handwritten): Advanced frontend concepts, system architecture, and integration
+  * Programming: Complex frontend development and integration tasks
 
 ---
 
@@ -175,21 +168,22 @@
 
 This course is structured in three progressive phases, each building upon previous knowledge and culminating in a comprehensive assessment.
 
-### **Phase 1: Foundations** (Weeks 1–4)
+### **Phase 1: Foundations** (Weeks 1–4) ✅ (Done)
 * **Learning Focus:** Introduction to control systems, programming fundamentals with TypeScript, and basic control logic
 * **Key Topics:** System concepts, TypeScript basics (variables, functions, classes, etc.), control system components, programming practices
 * **Resources:** Week 3 labs; Week 4 TypeScript for Beginners chapters (Ch01–Ch13)
 * **Assessment:** **Quiz 1** (Week 5) – 20% of final grade
 
-### **Phase 2: Web Application Development** (Weeks 5–7)
+### **Phase 2: Web Application Development** (Weeks 5–7) ✅ (Done)
 * **Learning Focus:** Full-stack web development for control and monitoring interfaces
 * **Key Topics:** Next.js frontend, NestJS backend, API development, real-time communication
 * **Assessment:** **Quiz 2** (Week 8) – 25% of final grade
 
-### **Phase 3: System Integration** (Weeks 9–12)
-* **Learning Focus:** Industrial protocols, IoT integration, data management, and complete system development
-* **Key Topics:** Communication protocols (Modbus, MQTT), IoT device integration, data visualization, complete application architecture
-* **Assessment:** **Quiz 3** (Week 13) – 35% of final grade
+### Phase 3: System Integration & Frontend (Weeks 9–12)
+* **Learning Focus:** Advanced frontend development, industrial protocols, and complete system integration
+* **Key Topics:** React & Tailwind CSS for industrial UI, Modbus/MQTT communication, and data visualization
+* **Learning Resources:** [INC343 YouTube Playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) (covers Weeks 09–12)
+* **Assessment:** **Quiz 3: Frontend & System Integration** (Week 13) – 35% of final grade
 
 **Continuous Assessment:** Assignments throughout the semester – 20% of final grade
 
