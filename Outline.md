@@ -118,6 +118,11 @@
 
 ## **Week 9: Industrial Communication Protocols and Data Communication**
 
+> **Required project work (Weeks 9–10)**  
+> Complete the **[Bitstream Application](https://github.com/drsanti/bitstream-app)** repository across **Week 9** and **Week 10**. The project integrates sensor-node firmware (MCU) with a **React** web dashboard over **MQTT** / WebSockets—aligned with industrial protocols and IoT in these two weeks.  
+> **Start here:** follow the repository [README](https://github.com/drsanti/bitstream-app/blob/main/README.md) and **[docs/Tutorial.md](https://github.com/drsanti/bitstream-app/blob/main/docs/Tutorial.md)** from top to bottom.  
+> **No hardware?** If you don't have a real microcontroller board, don't worry—you can complete the learning path in **simulator mode** (see the repository tutorial for simulator setup and usage).
+
 * Overview of **industrial standard communication protocols**
 
   * Modbus, MQTT, and related protocols
@@ -130,9 +135,17 @@
 
 ## **Week 10: Internet of Things (IoT) and Device Integration**
 
+> **Reminder:** Continue the **[Bitstream Application](https://github.com/drsanti/bitstream-app)** project from Week 9; finish remaining tutorial steps and integration work this week. Simulator mode is available if you do not have a physical MCU board.
+
 * Fundamental **Internet of Things (IoT)** concepts and architectures
 * Integration of **IoT devices** with backend systems
-## **Week 9-12: Frontend Development (React & Tailwind CSS) & Project Implementation**
+* Web-based **device control and monitoring**
+* **Sensor data acquisition**, preprocessing, and transmission
+* **Hands-on:** Connecting IoT devices to web-based control and monitoring applications
+
+---
+
+## **Week 9–12: Frontend Development (React & Tailwind CSS) & Project Implementation**
 
 * **Advanced React and Tailwind CSS**:
 
@@ -151,16 +164,20 @@
 
   * Applying learned concepts to develop a comprehensive frontend for a control system
   * Focus on UI/UX best practices for industrial applications
-* **Hands-on**: Developing a complete, production-ready frontend application for a control and monitoring system.
+* **Hands-on:** Developing a complete, production-ready frontend application for a control and monitoring system.
 
 ---
 
-## **Week 13: Quiz 3 – Frontend & System Integration**
+## **Week 13: Quiz 3 – Frontend (React + Tailwind CSS)**
 
-* **Quiz 3: Frontend & System Integration**
+> **Quiz 3 scope**  
+> Quiz 3 focuses **only on frontend development** using **React** and **Tailwind CSS**, mainly on **fundamentals** of React and Tailwind CSS (components, JSX, styling utilities, layout, and basic patterns).  
+> **Study from this playlist:** [INC343-2025 – YouTube](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) — quiz material aligns with topics covered there.
 
-  * Paper-based (handwritten): Advanced frontend concepts, system architecture, and integration
-  * Programming: Complex frontend development and integration tasks
+* **Quiz 3: Frontend (React + Tailwind CSS)**
+
+  * Paper-based (handwritten): React and Tailwind CSS fundamentals, component concepts, and basic frontend architecture
+  * Programming: Practical tasks using React and Tailwind CSS (fundamental-level)
 
 ---
 
@@ -179,16 +196,16 @@ This course is structured in three progressive phases, each building upon previo
 * **Key Topics:** Next.js frontend, NestJS backend, API development, real-time communication
 * **Assessment:** **Quiz 2** (Week 8) – 25% of final grade
 
-### Phase 3: System Integration & Frontend (Weeks 9–12)
-* **Learning Focus:** Advanced frontend development, industrial protocols, and complete system integration
-* **Key Topics:** React & Tailwind CSS for industrial UI, Modbus/MQTT communication, and data visualization
+### Phase 3: Protocols, IoT & React Frontend (Weeks 9–12)
+* **Learning Focus:** Hands-on industrial communication and IoT (MQTT, device integration via the Bitstream project, including simulator mode), plus **React** and **Tailwind CSS** fundamentals for control/monitoring-style UIs and dashboards
+* **Key Topics:** MQTT and related protocols; firmware/frontend integration patterns; **React** (components, JSX, state, hooks at a foundational level) and **Tailwind CSS** (layout, responsive UI, utility styling); basic data visualization; preparation for **Quiz 3** (React + Tailwind fundamentals only)
 * **Learning Resources:** [INC343 YouTube Playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) (covers Weeks 09–12)
-* **Assessment:** **Quiz 3: Frontend & System Integration** (Week 13) – 35% of final grade
+* **Assessment:** **Quiz 3: Frontend (React + Tailwind CSS)** (Week 13) – 35% of final grade
 
 **Continuous Assessment:** Assignments throughout the semester – 20% of final grade
 
 ---
 
-**Last Updated:** 2026-03-08
+**Last Updated:** 2026-03-16
 
 ---

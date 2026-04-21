@@ -1,21 +1,24 @@
-# Week 13: Quiz 3 – Frontend & System Integration
+# Week 13: Quiz 3 – Frontend (React + Tailwind CSS)
 
-Welcome to Week 13! This week is dedicated to **Quiz 3**, the final comprehensive assessment of the course, focusing on Frontend Development and System Integration.
+Welcome to Week 13. This week is dedicated to **Quiz 3**, the final quiz of the course.
 
-## Quiz Structure
-The assessment is divided into two parts:
+> **Quiz 3 scope** (see also [Syllabus](../Syllabus.md) and [Course Outline](../Outline.md))  
+> Quiz 3 focuses **only on frontend development** using **React** and **Tailwind CSS**, mainly on **fundamentals** (components, JSX, utility styling, layout, and basic patterns).  
+> **Study source:** [INC343-2025 YouTube playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM).
 
-1.  **Theory (Paper-based)**:
-    *   Covers advanced frontend architectures and system integration concepts.
-    *   Evaluates your understanding of real-time communication and data visualization principles.
-2.  **Programming (Practical)**:
-    *   Implementation of a full-stack control and monitoring interface.
-    *   Integration of real-time data using the technologies covered in Phase 3.
+## Quiz structure
 
-## Final Preparation
-*   **Video Resources**: Ensure you have completed all video tutorials in the [INC343 YouTube Playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM). The playlist covers essential implementation details for Weeks 09–12.
-*   **Sample Questions**: Example questions and practice scenarios will be updated here shortly. Please check back soon.
+Quiz 3 has **two parts**, consistent with the course syllabus:
+
+1. **Paper-based (handwritten)** — React and Tailwind CSS fundamentals, component concepts, and basic frontend architecture  
+2. **Programming** — practical tasks using **React** and **Tailwind CSS** at a **fundamental** level (**bring your own computer**)
+
+## Final preparation
+
+* Complete the relevant videos in the [INC343-2025 YouTube playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) (Weeks 09–12 material).  
+* Review **Quiz attendance and late-submission policies** in the [Syllabus](../Syllabus.md).
 
 ---
-**Course:** INC343: Computer-Based Control and Monitoring Systems
+
+**Course:** INC343: Computer-Based Control and Monitoring Systems  
 **Last Updated:** 2026-03-16

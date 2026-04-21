@@ -1,10 +1,10 @@
 # Week 09: Frontend Development and UI Design
 
-Welcome to Week 09! This week, we focus on **Frontend Development** and enhancing our user interfaces.
+Welcome to Week 09. This phase covers **industrial protocols and IoT** (including the **[Bitstream Application](https://github.com/drsanti/bitstream-app)** project in Weeks 9–10) and **React + Tailwind CSS** for control/monitoring-style UIs. Course policies and evaluation are in the **[Syllabus](../Syllabus.md)**.
 
-## Learning Materials
+## Learning materials
 
-Please check the following **YouTube Playlist** for video walkthroughs and demonstrations focusing on **Frontend development using React and TailwindCSS**:
+Use the following **YouTube playlist** for walkthroughs on **React and Tailwind CSS** (also the main study source for **Quiz 3** fundamentals):
 
 **[INC343 YouTube Playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM)**
 

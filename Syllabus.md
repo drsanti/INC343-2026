@@ -10,16 +10,21 @@ The course is delivered using a **hybrid learning format**, combining **onsite**
 
 ## Class Information
 
-* **Classroom Location:** CB40610(1)
+* **Classroom (Onsite):** CB40610(1)
 * **Schedule:** Tuesday, 13:30 – 16:30
 * **Learning Format:** Hybrid (Onsite + Online)
+* **Zoom (Online):** [Join Zoom Meeting](https://kmutt-ac-th.zoom.us/j/96375355243?pwd=Gc5bZ98ZLaFIt1uiMzDF8Uiddfq6X9.1)
+* **Meeting ID:** 963 7535 5243
+* **Passcode:** 763047
 
 ---
 
-## Assessment Policy
+## Evaluation
 
-This course has **no midterm or final examinations**.
-The **final grade (100%)** is determined entirely by **assignments and quizzes**.
+* **Assignments:** 20% of the final grade  
+* **Quizzes:** 80% of the final grade  
+
+This course has **no midterm or final examinations**. The **final grade (100%)** is determined entirely by **assignments and quizzes**.
 
 ### Assessment Breakdown
 
@@ -35,17 +40,26 @@ The **final grade (100%)** is determined entirely by **assignments and quizzes**
 
 ## Quizzes
 
-There are **three quizzes** conducted throughout the semester.
+There are **three quizzes** conducted throughout the semester.  
 Each quiz consists of **two parts**:
 
-1. **Paper-based (handwritten):** Evaluation of theoretical knowledge and core concepts
-2. **Programming:** Practical coding and implementation tasks
+1. **Paper-based (handwritten):** Evaluation of theoretical knowledge and core concepts  
+2. **Programming:** Practical coding and implementation tasks (**students must use their own computer**)
 
 ### Quiz Topics
 
-* **Quiz 1:** Basic knowledge and basic programming
-* **Quiz 2:** Frontend and backend programming
-* **Quiz 3:** Frontend & System Integration
+* **Quiz 1:** Basic knowledge and basic programming  
+* **Quiz 2:** Frontend and backend programming  
+* **Quiz 3:** **Frontend only** — **React** and **Tailwind CSS**, mainly **fundamentals** (components, JSX, utility styling, layout, and basic patterns). Quiz material aligns with the **[INC343-2025 YouTube playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM)**.
+
+---
+
+## Assignment Submission and Quiz Attendance Policy
+
+* Late submissions will be considered as **not submitted**.
+* Quizzes are conducted **onsite** at **CB40610(1)** on the scheduled class date and time unless otherwise announced.
+* If a student misses a quiz **without a valid reason**, they receive **0 points** for that quiz.
+* If a student misses a quiz **with a valid reason** (official leave form or equivalent evidence), they may request a **make-up quiz** and will receive **70% of the score earned** (actual score × 0.7).
 
 ---
 
@@ -53,11 +67,19 @@ Each quiz consists of **two parts**:
 
 To successfully participate in this course, students must have access to the following tools:
 
-* **Computer** (Laptop or Desktop)
+* **Computer** (laptop or desktop)
 * **Node.js** (JavaScript runtime environment)
-* **Visual Studio Code (VS Code)** – Code editor
-* **TypeScript** – Programming language
-* **Docker Desktop** – Containerization platform
+* **Visual Studio Code (VS Code)** — code editor
+* **TypeScript** — programming language
+* **Docker Desktop** — containerization platform  
+* **React** and **Tailwind CSS** — used in later weeks and for **Quiz 3** preparation (see course outline and playlist)
+
+---
+
+## Course Materials
+
+* **[Course README / landing page](./README.md)** — schedule, progression, and quick links  
+* **[Course Outline](./Outline.md)** — weekly topics, Bitstream project (Weeks 9–10), and detailed quiz scope  
 
 ---
 
@@ -75,7 +97,6 @@ To successfully participate in this course, students must have access to the fol
 | 0 – 49      | F     |
 
 ---
-
 
 ## Course Description
 

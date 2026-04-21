@@ -1,6 +1,6 @@
 # INC343: Computer-Based Control & Monitoring Systems
 
-> This course introduces computer-based systems used for **control and monitoring of devices and machinery**. Students will gain both **theoretical knowledge** and **practical programming skills** through a progressive three-phase learning approach: **foundations** (TypeScript programming and control system basics), **web application development** (Next.js frontend and NestJS backend), and **system integration** (industrial communication protocols, IoT technologies, and data management). The course emphasizes **hands-on development** of **web-based monitoring and control applications** using **standard industrial communication protocols** for real-world industrial and automation environments.
+> This course introduces computer-based systems used for **control and monitoring of devices and machinery**. Students will gain both **theoretical knowledge** and **practical programming skills** through a progressive three-phase approach: **foundations** (TypeScript and control basics), **web application development** (Next.js and NestJS), and **protocols, IoT & React frontend** (including the Bitstream project and **React + Tailwind CSS** toward **Quiz 3**). The course emphasizes **hands-on development** of **web-based monitoring and control applications** for real-world industrial environments. Official policies and evaluation rules are in the **[Syllabus](./Syllabus.md)**.
 
 ---
 
@@ -11,6 +11,12 @@
 ---
 
 ![alt text](assets/cover.png)
+
+---
+
+> **About this course repository**  
+> This repository covers **basics and fundamentals** of **computer-based control and monitoring systems**, with a strong focus on **frontend development** using **React** and **Tailwind CSS**.  
+> For **in-depth, practical work** on connecting a **frontend** to **embedded systems** and building **IoT applications**, use the companion project **[Bitstream Application](https://github.com/drsanti/bitstream-app)** — it walks you through developing IoT applications in a hands-on way (firmware, React dashboard, MQTT, simulator or hardware).
 
 ---
 
@@ -39,8 +45,8 @@ Upon successful completion of this course, students will be able to:
 ## 📚 Course Resources
 
 ### **Course Documents**
-- **[Syllabus](./Syllabus.md)** - Complete course syllabus with detailed information
-- **[Course Outline](./Outline.md)** - Weekly schedule and topics
+- **[Syllabus](./Syllabus.md)** — official course syllabus (class information, evaluation, quiz scope, policies, grading)
+- **[Course Outline](./Outline.md)** — weekly schedule, labs, and Bitstream project details
 
 ### **Weekly Materials**
 - **[Week 1: Course Introduction](./Week01/)** - Introduction to control and monitoring systems
@@ -52,7 +58,7 @@ Upon successful completion of this course, students will be able to:
 - **[Week 7: Integration](./Week07/)** - Integration and Communication (Main content for Quiz 2)
 - **[Week 8: Quiz 2](./Week08/)** - **Quiz 2**: Full-Stack Web Application Development
 - **[Week 9-12: Frontend Development](./Week09/)** - Frontend development using React and TailwindCSS
-- **[Week 13: Quiz 3](./Week13/)** - **Quiz 3**: Frontend & System Integration
+- **[Week 13: Quiz 3](./Week13/)** - **Quiz 3**: Frontend (React + Tailwind CSS fundamentals)
 
 ---
 
@@ -89,7 +95,7 @@ Each quiz consists of **two parts**:
 **Quiz Topics:**
 - **Quiz 1:** Basic knowledge and basic programming
 - **Quiz 2:** Frontend and backend programming
-- **Quiz 3:** Control and monitoring application development
+- **Quiz 3:** Frontend only — **React** and **Tailwind CSS** (fundamentals); aligns with the [INC343-2025 YouTube playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) (see [Syllabus](./Syllabus.md))
 
 ---
 
@@ -118,13 +124,11 @@ This course is structured in **three progressive phases**:
 - Full-stack integration and real-time communication
 - **Assessment:** Quiz 2 (Week 8) – 25%
 
-### Phase 3: System Integration & Frontend (Weeks 9–12)
-- Advanced frontend development (React & Tailwind CSS)
-- Industrial communication protocols (Modbus, MQTT)
-- Data visualization and real-time dashboard design
-- Complete system development and project implementation
-- **Learning Resources:** See the [INC343 YouTube Playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) for video walkthroughs (covers Weeks 09–12)
-- **Assessment:** Quiz 3 (Week 13) – 35%
+### Phase 3: Protocols, IoT & React Frontend (Weeks 9–12)
+- Industrial communication and IoT hands-on (**MQTT**, **Bitstream** project with simulator mode when no hardware)
+- **React** and **Tailwind CSS** fundamentals for monitoring-style UIs and dashboards
+- **Learning Resources:** [INC343-2025 YouTube playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) (Weeks 09–12; **Quiz 3** study source)
+- **Assessment:** **Quiz 3: Frontend (React + Tailwind CSS)** (Week 13) – 35%
 
 **Continuous Assessment:** Assignments throughout the semester – 20%
 
@@ -159,10 +163,10 @@ To successfully participate in this course, students must have access to:
 | 5 | Frontend Development & **Quiz 1** | **Quiz 1 (20%)** + Learn |
 | 6-7 | Backend and Integration | Learn & Practice |
 | 8 | **Quiz 2** – Web Development | **Quiz 2 (25%)** |
-| 9-12 | Frontend Development & System Integration | Learn & Project |
-| 13 | **Quiz 3**: Frontend & System Integration | **Quiz 3 (35%)** |
+| 9-12 | Protocols, IoT (Bitstream), React & Tailwind | Learn & Project |
+| 13 | **Quiz 3**: Frontend (React + Tailwind fundamentals) | **Quiz 3 (35%)** |
 
-Note: another 20% of the grade is from assignments.
+**Note:** **Assignments (20%)** and **quizzes (80%)** make up the final grade. See the [Syllabus](./Syllabus.md) for policies and full assessment details.
 
 For detailed weekly topics, see the [Course Outline](./Outline.md).
 
@@ -186,17 +190,20 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 ## 🔗 Quick Links
 
 - [Course Syllabus](./Syllabus.md)
-- [Detailed Course Outline](./Outline.md)
-- [Week 1 Materials](./Week01/)
-- [Week 2 Materials](./Week02/)
-- [Week 3 Materials](./Week03/)
-- [Week 4 Materials](./Week04/)
-- [Week 5 Materials](./Week05/) – Frontend Development and **Quiz 1** (Basic Knowledge and Programming)
-- [Week 6 Materials](./Week06/) – Backend development, NestJS, and Real-time communication
-- [Week 7 Materials](./Week07/) – Integration and Real-time communication (Review Week 06 & Quiz 2 Focus)
-- [Week 8 Materials](./Week08/) – Quiz 2: Full-Stack Web Application Development
-- [Week 9 Materials](./Week09/) – Frontend Development (React and TailwindCSS) & YouTube Playlist (Weeks 09–12)
-
+- [Course Outline](./Outline.md)
+- [Week 1](./Week01/) — Course introduction and control & monitoring systems
+- [Week 2](./Week02/) — Development environment (VS Code, Node.js, Docker)
+- [Week 3](./Week03/) — TypeScript fundamentals and control system basics
+- [Week 4](./Week04/) — TypeScript self-study (Ch01–Ch13) and **Quiz 1** preparation
+- [Week 5](./Week05/) — Frontend development and **Quiz 1** (basic knowledge and programming)
+- [Week 6](./Week06/) — Backend development (NestJS, REST APIs, WebSockets)
+- [Week 7](./Week07/) — Frontend–backend integration and real-time communication (**Quiz 2** focus; see also [Week 6](./Week06/))
+- [Week 8](./Week08/) — **Quiz 2** — full-stack web application development
+- [Week 9](./Week09/) — Industrial protocols, Bitstream project (Weeks 9–10), React & Tailwind CSS; [INC343-2025 YouTube playlist](https://www.youtube.com/playlist?list=PLBPFpqyTjzeV46XDw-SdvRYmcqbYRrVoM) (Weeks 9–12 & **Quiz 3** study)
+- [Week 10](./Week10/) — IoT and Bitstream (continued); primary materials — [Week 9 hub](./Week09/)
+- [Week 11](./Week11/) — Phase 3 frontend; materials — [Week 9 hub](./Week09/) and [Outline](./Outline.md)
+- [Week 12](./Week12/) — Phase 3 wrap-up; materials — [Week 9 hub](./Week09/)
+- [Week 13](./Week13/) — **Quiz 3** — frontend only (React + Tailwind CSS fundamentals)
 ---
 
 
